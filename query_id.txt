@@ -1,0 +1,1 @@
+query_id=AAHb7SwQAwAAANvtLBCa3y-S&user=%7B%22id%22%3A6713830875%2C%22first_name%22%3A%22Pur%20%F0%9F%8D%85%22%2C%22last_name%22%3A%22Sugih%22%2C%22username%22%3A%22sayuti_malik%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727502949&hash=097a234284cfaa086c48f3277b732ff40b6108e20bd6d4f55b88402bb07c7c2b
